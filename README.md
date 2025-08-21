@@ -8,7 +8,7 @@ Exploring the research and application of Game Theory, AI/ML, NLP, and Software 
 
 Always looking to make a meaningful impact with my work!
 
-Website: https://www.nishad.page
+Check out my portfolio, https://www.nishad.page
 
 <p align="left">
 <a href="https://linkedin.com/in/nishadwajge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishadwajge" height="30" width="40" /></a>

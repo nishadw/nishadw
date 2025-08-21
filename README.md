@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Nishad Wajge</h1>
 
-<h3 align="center">Computer Science + Business + Statistics @ University of Maryland, College Park</h3>
+<h3 align="center">Computer Science + Business + Statistics @ University of Maryland – College Park</h3>
 
 <h2 align="left">⭐️ About Me</h2>
 

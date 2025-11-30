@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋 I'm Nishad Wajge</h1>
+<h1 align="center">Hi 👋 , I'm Nishad Wajge</h1>
 
 <h3 align="center">Computer Science + Business + Statistics @ University of Maryland – College Park</h3>
 
 <h2 align="left">⭐️ About Me</h2>
 
-Exploring the research and application of Game Theory, AI/ML, NLP, and Software Engineering to aid human decision-making.
+Exploring the areas of Game Theory, AI/ML, NLP, and Software Engineering to aid human decision-making.
 
 Always looking to make a meaningful impact with my work!
 
-Check out my portfolio, https://www.nishad.page
+LinkedIn: https://linkedin.com/in/nishadwajge
 
-<p align="left">
-<a href="https://linkedin.com/in/nishadwajge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishadwajge" height="30" width="40" /></a>
-</p>
+Portfolio: https://www.nishad.page
+
 
 
 <h2 align="left">📚 Education & Coursework</h2>
@@ -54,7 +53,7 @@ Relevant Coursework: Computational Game Theory, Machine Learning, Data Structure
 <a href="https://ant.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_ant/apache_ant-icon.svg" alt="Ant" width="40" height="40"/> </a>
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4J" width="40" height="40"/> </a>
 <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/logos/qdrant-icon.png" alt="Qdrant" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel%282019–present%29.svg.png" alt="Excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019–2025%29.svg/1200px-Microsoft_Office_Excel_%282019–2025%29.svg.png" alt="Excel" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Libraries & Frameworks:</h3>

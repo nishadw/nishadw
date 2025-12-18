@@ -10,7 +10,7 @@ Always looking to make a meaningful impact with my work!
 
 LinkedIn: https://linkedin.com/in/nishadwajge
 
-Portfolio: https://www.nishad.page
+Portfolio: https://nishad.page
 
 
 

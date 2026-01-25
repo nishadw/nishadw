@@ -1,30 +1,28 @@
-<h1 align="center">Hi 👋 , I'm Nishad Wajge</h1>
+<h1 align="center">👋  Hi, I'm Nishad Wajge </h1>
 
-<h3 align="center">Computer Science + Business + Statistics @ University of Maryland – College Park</h3>
+<h3 align="center">Computer Science & Machine Learning @ University of Maryland – College Park</h3>
 
 <h2 align="left">⭐️ About Me</h2>
 
-Exploring the areas of Game Theory, AI/ML, NLP, and Software Engineering to aid human decision-making.
+Interested in software engineering, artificial intelligence, game theory, and securities trading. Always looking to make a meaningful impact with my work!
 
-Always looking to make a meaningful impact with my work!
+**LinkedIn**: https://linkedin.com/in/nishadwajge
 
-LinkedIn: https://linkedin.com/in/nishadwajge
-
-Portfolio: https://nishad.page
+**Portfolio**: https://nishad.page
 
 
 
 <h2 align="left">📚 Education & Coursework</h2>
 
-Major: Computer Science (Concentration: Machine Learning)
+**Major**: Computer Science (Concentration: Machine Learning)
 
-Minors: Business & Statistics
+**Minors**: Business & Statistics
 
-Relevant Coursework: Computational Game Theory, Machine Learning, Data Structures & Algorithms, Data Science, Statistical Computing, Discrete Mathematics, Applied Probability & Statistics, Linear Algebra, Supply Chain Management, Accounting
+**Relevant Coursework**: Computational Game Theory, Machine Learning, Artificial Intelligence, Computer Vision, Data Structures & Algorithms, Data Science, Statistical Computing, Discrete Mathematics, Applied Probability & Statistics, Linear Algebra, Financial Management, Supply Chain Management, Product Management, Accounting
 
-<h2 align="left">💻 Technical Skills:</h2>
+<h2 align="left">💻 Technical Skills</h2>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -38,7 +36,7 @@ Relevant Coursework: Computational Game Theory, Machine Learning, Data Structure
 <a href="https://en.wikipedia.org/wiki/X86-64" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="x86-64" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Developer Tools:<h3>
+<h3 align="left">Developer Tools<h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.datasunrise.com/wp-content/themes/datasunrise_redesign/img/svg/aws-promo-logo.svg" alt="aws" width="40" height="40"/> </a>
@@ -56,7 +54,7 @@ Relevant Coursework: Computational Game Theory, Machine Learning, Data Structure
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019–2025%29.svg/1200px-Microsoft_Office_Excel_%282019–2025%29.svg.png" alt="Excel" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Libraries & Frameworks:</h3>
+<h3 align="left">Libraries & Frameworks</h3>
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/> </a>

@@ -8,7 +8,7 @@ Interested in software engineering, artificial intelligence, game theory, and se
 
 **LinkedIn**: https://linkedin.com/in/nishadwajge
 
-**Portfolio**: https://nishad.page
+**Portfolio**: https://www.nishad.page
 
 
 

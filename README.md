@@ -20,5 +20,8 @@ IRT and Glicko-2 fitted to human and LLM attempts, rating difficulty in math, ch
 **[A Game-Theoretic Study of Adversary Strategy in Golf](https://link.springer.com/article/10.1007/s00180-024-01555-5)** · Computational Statistics 2024 · first author  
 PGA Tour golf as an MDP and a multiplayer stochastic game, to value opponent-aware strategy.
 
-**[Using Model Classification to Detect Bias in Hospital Triaging](https://www.biomedscijournal.com/journals/abse/abse-aid1022.php)** · 2023 · co-author  
+**[Using Model Classification to Detect Bias in Hospital Triaging](https://www.biomedscijournal.com/journals/abse/abse-aid1022.php)** · Annals of Biomedical Science and Engineering 2023 · co-author  
 Shapley attribution over a random-forest admissions model, to quantify triage bias.
+
+**[Trials of Triage: A Look Into the Implicit Biases Prevalent in the American Medical System](https://web.stanford.edu/group/coedme_justhealt/cgi-bin/wordpress/wp-content/uploads/2022/12/JUSTHealth-Fall-2022-Edition.pdf)** · JUST Health, Stanford School of Medicine 2022 · co-author  
+The same study for a clinical audience: who gets admitted, and which recorded attribute decided it.
